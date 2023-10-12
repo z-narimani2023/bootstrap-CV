@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "vazir";
+    src: url("../bootstrap/fonts/Vazir.eot");
+    src: url("../bootstrap/fonts/Vazir.ttf") format("truetype") url("../bootstrap/fonts/Vazir.woff") format("woff") url("../bootstrap/fonts/Vazir.woff2") format("woff2");
+}
+
+body {
+    font-family: "vair" !important;
+}
+
+.icon {
+    color: blue;
+    background-color: silver;
+    border-radius: 15px;
+    padding: 10px;
+    display: inline-flex;
+}
+
+#box {
+    background-color: midnightblue;
+    color: white;
+}
